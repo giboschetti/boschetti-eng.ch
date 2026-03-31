@@ -1,0 +1,65 @@
+Pages:
+
+1) About me: this will be a text description of who I am + CV/Lebenslauf.
+Add Project Experiences according to the file 2. Project References
+ Add my expertise with AI,
+Software Engienering and Automation. Add logo of the tools I use:
+- MS Office
+- Google Workspace
+- Project
+- Tilos
+- Infrakit
+- Claude Code, Cowork
+- Perplexity Computer
+- OpenAI Codex
+- Github
+- Python, Javascript, HTML, CSS.
+- Cursor AI
+- MS VIsual Studio
+- Supabase
+- Firebase
+- Airtable
+- Google Stitch
+- ABACUS ERP
+
+2) Dienstleistungen: here will be description of services I provide in context of Railway Engineering
+    - Arbeitsvorbereitung in Gleisbau und Gleistiefbau
+        - Projektanforderungsbericht: Its a report where all the documents of a project are analysed and summarzied
+        into the most important topics, relevant for the execution. It covers: Planlist (which plan is for what), 
+        Schedule and Milestones, Track Inerdictions Patterns, 
+        - Plan Review Report: analysis of execution plans and report on inconsistencies, potential execution risks,
+        conflicts, missing plans or information for proper execution.
+        - Intervall Planung/Review: review of track interdiciton plans (BAB, Sperrlisten)
+        - Projektstrukturplan: I define a Work Breakdown Structure that makes sense for the execution of Railway
+        construction projects.
+        - Mengenberechnung: A database/table listing the project scope and quantities calculation based on the
+        provided plans
+        - Gleisprojekt Schema: A set of digital drawings defining the scope of the project, which can be used for
+        multiple purposes: drawing construction concepts, logistic concepts, etc. Includes a library for drawing
+        specific railway construction elements quick and understandable.
+        - Gleissperrung/Intervalle: An automated toold for uploading BAB and automatically structuring the data in 
+        specific track interdicitons, fahrlitungsschaltungen, status, etc. Includes Gannt Chart View.
+        - Baukonzept und Daumenkino: Visual representations and report on machine choices, construction methods aplicable,
+        methods economic comparisson; for communicating with construction and project team the designed construction concept;
+        - Construction Schedule: Tilos / Gannt Chart construction schedule, with explained rates of services
+        - Logistic Plan: definition of construction trains, Track Occupation necessity calculation (need for parking tracks) and Fahrplan (planning of construction trains among stations/sites)
+         over time with conflict management (Raillog), based on construction schedule, quantities.
+        - Ressourcenplan: Document specifying ressource needs per shift (personel, inventory, external services, material)
+        - Document Templates for Execution: Project-Adapted Template for Construction Journal, Meetings, Checklist Site Visits and Control,
+
+    - Abrechnung & Finances of Railway Construction sites
+        - Costs Forecast and Income Forecast / Schedule
+        - Leistungsverzeichnis connection to construction schedule 
+        - Ausmass
+        - Nachträge Anzeige, Calculation based on SIA and OR in Switzerland
+        - Dashboard for Ausmass, Regie, Nachträge and Costs Control
+
+3) Digital Tools:
+For each tool, you create a card with title, description, picture and link external.
+    Raillog 
+    Digital Tagesberichte
+    Whatsapp Group Intelligente Media Capture
+    Supplier Map Dashboard
+    Schichtplanung Tool
+4) Contact
+    
